@@ -1,0 +1,12 @@
+QID,Question,difficulty,subcourse,answer,accuracy_param,topic,points
+1PYTS,what,easy,UIFE-1,wha,70,python,1
+2PYTS,why,medium,UIFE-2,wh,70,html,1
+3PYTS,where,hard,UIFE-1,whe,70,javascript,1
+4PYTS,who,easy,UIFE-2,wh,70,python,1
+5PYTS,when,easy,UIFE-1,whe,70,html,2
+6PYTS,will,easy,UIFE-3,wil,70,javascript,2
+7PYTS,were,easy,UIFE-1,wer,70,python,2
+8PYTS,wont,easy,UIFE-1,won,70,html,2
+9PYTS,wouldn?t,easy,UIFE-2,would,70,javascript,4
+10PYTS,were,easy,UIFE-1,wer,70,python,4
+11PYTS,we,easy,UIFE-1,w,70,html,4

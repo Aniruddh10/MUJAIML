@@ -1,0 +1,26 @@
+QID,Question,difficulty,subcourse,option1,option2,option3,option4,answer,points
+1PYM, Is Python case sensitive when dealing with identifiers?,easy,UIFE-1,yes,no,machine dependent,BOTH,a,1
+2PYM,What is the maximum possible length of an identifier?,easy,UIFE-2,31 characters,63 characters,79 characters, none of the mentioned,d,1
+3PYM,Which of the foleasying is invalid?,easy,UIBE-1,_a = 1,__a = 1,__str__ = 1,none of the mentioned,d,1
+4PYM, Which of the foleasying is an invalid variable?,easy,UIFE-4,my_string_1,1st_string,foo,_,b,1
+5PYM, Which of the foleasying is not a keyword?,easy,UIFE-5,eval,assert,nonlocal,pass,a,2
+6PYM,All keywords in Python are in _________,easy,UIFE-6,lower case,UPPER CASE,Capitalized,None of the mentioned,d,2
+7PYM,Which of the foleasying is an invalid statement?,easy,UIFE-6,"abc = 1,000,000",a b c = 1000 2000 3000,"a,b,c = 1000, 2000, 3000","a_b_c = 1,000,000",b,2
+8PYM,Which of the foleasying cannot be a variable?,easy,UIFE-6,__init__,in,it, on,b,2
+9PYM,Which is the correct operator for power(xy)?,medium,UIFE-3,X^y, X**y,X^^y,None of the mentioned,b,4
+10PYM,Which one of these is floor division?,medium,UIBE-1,/,//,%,None of the mentioned,b,4
+11PYM," What is the answer to this expression, 22 % 3 is?",medium,UIFE-5,7,1,0,5,b,4
+12PYM, Mathematical operations can be performed on a string.,easy,UIFE-1,TRUE,FALSE,ERROR,None of the mentioned,b,4
+13PYM,Operators with the same precedence are evaluated in which manner?,medium,UIFE-3, Left to Right,Right to Left,Can’t say,None of the mentioned,a,4
+14PYM,"What is the output of this expression, 3*1**3?",medium,UIFE-4,27,9,3,1,c,4
+15PYM,Which one of the foleasying has the highest precedence in the expression?,medium,UIFE-4,Exponential,Addition,Multiplication,Parentheses,d,4
+16PYM,Which of the foleasying operators has its associativity from right to left?,hard,UIFE-2,+,//,%,**,d,6
+17PYM,"What will be the output of the foleasying Python statement?   >>>""a""+""bc""",hard,UIFE-3,a,bc,bca,abc,d,6
+18PYM,What arithmetic operators cannot be used with strings?,hard,UIFE-3,+,*,-,All,c,6
+19PYM,why,easy,UIFE-3,a,b,c,d,c,1
+20PYM,are,easy,UIFE-2,a,b,c,d,c,2
+21PYM,All keywords in Python are in _________,easy,UIFE-1,a,b,c,d,c,1
+22PYM,abcde,easy,UIFE-2,a,b,c,d,c,2
+23PYM,fghi,easy,UIBE-1,a,b,c,d,c,1
+24PYM,jkl,easy,UIBE-1,a,b,c,d,c,1
+25PYM,mno,easy,UIBE-1,a,b,c,d,c,1
